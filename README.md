@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJongho1&theme=github_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJongho1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJongho1&langs_count=10&layout=compact)]()
 
 
 <!--
