@@ -9,7 +9,7 @@
    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"/> 
    <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=reactivex&logoColor=black"/> 
    <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=Next.JS&logoColor=white"/>
-<!--    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=purple"/>   -->
+<!--    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black"/>   -->
   
   <br/>
   <br/>
